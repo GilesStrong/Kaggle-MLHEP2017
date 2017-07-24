@@ -1,0 +1,25 @@
+Part 1 Classifier_0_Train Tuned 		= 0.95747	reg 0 sample 0 class 1 selu 0 PCA All Layers 3
+Part 1 Classifier_1_Train 				= 0.95765 	reg 0 sample 0 class 1 selu 1 PCA All Layers 3 Either selu or full ensemble provides benefit
+Part 1 Classifier_1_Train_No_Weight 	= 0.94771	reg 0 sample 0 class 0 selu 1 PCA All Layers 3 Use Class weights
+Part 1 Classifier_1_Train_SigFit		= 0.95570	reg 0 sample 0 class 1 selu 1 PCA Sig Layers 3 Fit pipelines to all data
+Part 1 Classifier_2_Train				= 0.95586	reg 1 sample 0 class 1 selu 0 PCA Sig Layers 3 Reg1 might spoil results
+Part 1 Classifier_3_Train				= 0.95006	reg 1 sample 0 class 0 selu 1 PCA Sig Layers 5 Depth is unecessary
+Part 1 Classifier_5_Train				= 0.95685	reg 2 sample 1 class 1 selu 0 PCA Sig Layers 3
+
+
+
+Part 1 Classifier_1_Train 				= 0.95765 	reg 0 sample 0 class 1 selu 1 PCA All Layers 3 
+Part 1 Classifier_0_Train Tuned 		= 0.95747	reg 0 sample 0 class 1 selu 0 PCA All Layers 3 
+Part 1 Classifier_5_Train				= 0.95685	reg 2 sample 1 class 1 selu 0 PCA Sig Layers 3 
+Part 1 Classifier_2_Train				= 0.95586	reg 1 sample 0 class 1 selu 0 PCA Sig Layers 3 
+Part 1 Classifier_1_Train_SigFit		= 0.95570	reg 0 sample 0 class 1 selu 1 PCA Sig Layers 3
+Part 1 Classifier_3_Train				= 0.95006	reg 1 sample 0 class 0 selu 1 PCA Sig Layers 5
+Part 1 Classifier_1_Train_No_Weight 	= 0.94771	reg 0 sample 0 class 0 selu 1 PCA All Layers 3
+
+
+Use class weights
+Use all NNs
+Use relu
+Fit pipes to all data
+Stick with 3 layers
+Don't use reg

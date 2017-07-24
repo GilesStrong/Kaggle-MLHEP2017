@@ -1,0 +1,26 @@
+cnumpy.core.multiarray
+_reconstruct
+p1
+(cnumpy
+ndarray
+p2
+(I0
+tS'b'
+tRp3
+(I1
+(I10
+tcnumpy
+dtype
+p4
+(S'f8'
+I0
+I1
+tRp5
+(I3
+S'<'
+NNNI-1
+I-1
+I0
+tbI00
+S")FT\xceYG\xbb?K\xdfM*p?\xbb?\x06\xef\x89\xd7\xa97\xbb?Dae\x99\xc9&\xbb?hi~\x03$S\xba?'\xd4+\x17 L\xb9?q:\x9a\xe9\xcb\xf0\xb8?\xdd\xaf+\xdd&\xd0\xb8?l\x8a(\xf4\xd5<\xb8?\xef\xd7\xd5\xc0\xb5}\xb5?"
+tb.
